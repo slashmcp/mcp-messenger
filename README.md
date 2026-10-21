@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Archived Twin Repository:** The canonical repository for **SlashMCP App** has moved to [**mcpmessenger/slashmcp-app**](https://github.com/mcpmessenger/slashmcp-app). All active development and commits since December 2025 live there.
+
+---
 # SlashMCP
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
